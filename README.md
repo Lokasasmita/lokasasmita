@@ -1,5 +1,10 @@
 ## Hi there 👋
+I'm a 1st year undergraduate student at The University of Melbourne
+**Mainly proficient in** python & C
 
+**Connect with me:**
+- Linkedin: https://www.linkedin.com/in/bryan-lokasasmita-925996293/
+- Instagram: https://www.instagram.com/alxndr_lo/
 <!--
 **Lokasasmita/lokasasmita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
