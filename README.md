@@ -1,7 +1,7 @@
 ## Hi there 👋
 1st year undergraduate student at **The University of Melbourne**
-mainly proficient in Python & C. Also really interested in UI/UX and
-web designing & development.
+mainly proficient in **Python** & **C**. Also really interested in **UI/UX** and
+**Web Design & Development**.
 
 **Connect with me:**
 - Linkedin: https://www.linkedin.com/in/bryan-lokasasmita-925996293/
