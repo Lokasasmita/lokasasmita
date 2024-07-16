@@ -1,5 +1,5 @@
-## ׂ「 ✦ Currently busy studying for exams ✦ 」
-1st year undergraduate student at **The University of Melbourne**
+## ׂ「 ✦ Welcome ✦ 」
+2nd year undergraduate student at **The University of Melbourne**
 mainly proficient in **Python** & **C**. I've also tried my hand in some other languages such as **Javascript**, **C++**, **R**, 
 as well as exploring areas like **UI/UX**, **Web Design & Development**, and **algorithmic trading**.
 
