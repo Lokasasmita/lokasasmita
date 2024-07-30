@@ -1,7 +1,6 @@
 ## ׂ「 ✦ Welcome ✦ 」
 2nd year undergraduate student at **The University of Melbourne**
-mainly proficient in **Python** & **C**. I've also tried my hand in some other languages such as **Javascript**, **C++**, **R**, 
-as well as exploring areas like **UI/UX**, **Web Design & Development**, and **algorithmic trading**.
+mainly proficient in **Python**, **C**, & **Java**. I've also explored other areas such as **UI/UX**, **Web Design & Development**, & **Algorithmic trading**.
 
 **Connect with me:**
 - Linkedin: https://www.linkedin.com/in/bryan-lokasasmita-925996293/
