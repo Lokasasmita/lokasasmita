@@ -1,5 +1,5 @@
 # ׂ「 ✦ Lokasasmita ✦ 」
-**2nd year undergraduate student at The University of Melbourne**
+**Computing and Software Systems student at The University of Melbourne**
 <br />
 
 - Linkedin: https://www.linkedin.com/in/bryan-lokasasmita-925996293/
