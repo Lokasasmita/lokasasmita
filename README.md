@@ -4,6 +4,7 @@
 
 - Linkedin: https://www.linkedin.com/in/lokasasmita/
 - Instagram: https://www.instagram.com/alxndr_lo/
+- Design Portfolio: https://www.canva.com/design/DAGM47rBSy8/CQTSLWT4u7nTuJog3obU1Q/edit?utm_content=DAGM47rBSy8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
   
 Check out this website I made for my dad: [bernardlokasasmita.com](https://www.bernardlokasasmita.com/)
 <br/> or this old website designed for my friend's business: [everyhome.online](https://www.everyhome.online/)
