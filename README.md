@@ -1,6 +1,6 @@
-# 「 Lokasasmita 」
-👩🏻‍🎓 Studying Computing and Software Systems at The University of Melbourne<br/>
-👩🏻‍💻 Software Engineering intern for Byte of Bread technologies<br/>
+# ⋆⁺₊❅⋆ ⁺₊❆⋆🎄「 Lokasasmita 」🎄⋆⁺₊❅⋆ ⁺₊❆⋆
+🎁 Studying Computing and Software Systems at The University of Melbourne<br/>
+🌟 Software Engineering intern for Byte of Bread technologies<br/>
 # Links
 - Linkedin: https://www.linkedin.com/in/lokasasmita/
 - Instagram: https://www.instagram.com/alxndr_lo/
