@@ -1,10 +1,7 @@
 # ⋆⁺₊❅⋆ ⁺₊❆⋆🎄「 Lokasasmita 」🎄⋆⁺₊❅⋆ ⁺₊❆⋆
-🎁 Studying Computing and Software Systems at The University of Melbourne<br/>
-🌟 Software Engineering intern for Byte of Bread technologies<br/>
-# Links
-- Linkedin: https://www.linkedin.com/in/lokasasmita/
-- Instagram: https://www.instagram.com/alxndr_lo/
-- Design Portfolio: https://www.canva.com/design/DAGM47rBSy8/CQTSLWT4u7nTuJog3obU1Q/edit?utm_content=DAGM47rBSy8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+🎓 Studying Computing and Software Systems at The University of Melbourne<br/>
+💻 Software Engineering intern for Byte of Bread technologies<br/>
+🔗 All my links are listed in my profile
 
 # Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
