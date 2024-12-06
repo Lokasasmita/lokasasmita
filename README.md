@@ -1,4 +1,6 @@
 # ⋆⁺₊❅⋆ ⁺₊❆⋆🎄「 Lokasasmita 」🎄⋆⁺₊❅⋆ ⁺₊❆⋆
+\* Currently on winter break overseas \*
+
 🎓 Studying Computing and Software Systems at The University of Melbourne<br/>
 💻 Software Engineering intern for Byte of Bread technologies<br/>
 🔗 All my links are listed in my profile
