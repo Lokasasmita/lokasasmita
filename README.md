@@ -1,7 +1,7 @@
 # 👋 Welcome
 🎓 Computer Science @ The University of Melbourne<br/>
 👷🏻‍♀️ Software Engineering Intern @ Byte of Bread Technologies<br/>
-💭 Currently learning FrontEnd development with React<br/>
+💭 Learning Fullstack Web Development with the MERN stack<br/>
 🔗 All my links are listed in my profile
 
 # 💻 My Tech Stack
