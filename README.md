@@ -1,9 +1,5 @@
-# 👋 Welcome
-🎓 Computer Science @ The University of Melbourne<br/>
-👷🏻‍♀️ Software Engineering Intern @ Byte of Bread Technologies<br/>
-💭 Learning Fullstack Web Development with the MERN stack<br/>
-🔗 All my links are listed in my profile
-
+Computer Science @*The University of Melbourne*<br/>
+Full-stack Web Developer & Quantitative Finance Enthusiast
 # 💻 My Tech Stack
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
