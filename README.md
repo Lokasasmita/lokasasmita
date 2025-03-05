@@ -1,5 +1,6 @@
 Computer Science @*The University of Melbourne*<br/>
-Full-stack Web Developer & Quantitative Finance Enthusiast<br/>
+Full-stack Web Developer<br/>
+Quantitative Finance Enthusiast<br/>
 Startup Founder
 # 💻 My Tech Stack
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -15,6 +16,7 @@ Startup Founder
 <img align="left" alt="Express.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
+<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <br />
 
 
