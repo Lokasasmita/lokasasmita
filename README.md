@@ -1,5 +1,3 @@
-## 👋 Hi, I'm Alexander
-
 **Growing** [Lokasasmita Group](https://github.com/enterprises/lokasasmita) <br/>
 **Co-founder** of [Kora AI](https://koraai.com.au) <br />
 [Visit my website](https://lokasasmita.com) :)
