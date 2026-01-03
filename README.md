@@ -6,8 +6,6 @@ I'm a final year CS student @ unimelb. I do webdev, design & animation, speciali
 
 For a showcase of my selected works, <a href="https://lokasasmita.com">visit my website</a>
 
-If you want to chat about your project/business, <a href="https://cal.com/lokasasmita/intro-call">book a call with me</a>
-
 ## Tech stack (if you're curious)
 
 <ul>
