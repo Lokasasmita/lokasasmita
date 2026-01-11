@@ -2,9 +2,9 @@
 
 Currently building with <b><a href="https://trypolarbear.com/">Polarbear</a></b>
 
-I'm a final year CS student @ unimelb. I do webdev, design & animation, specialising in CMS driven websites built with Next + GSAP/Framer, optimised for SEO & CRO. I love designing & developing ideas to life, and I hope my growth is visible through the projects I release. 
+I'm a final year CS student @ unimelb. I do webdev, design & animation, specialising in CMS driven websites built with Next + GSAP/Framer, optimised for SEO & CRO. 
 
-For a showcase of my selected works, <a href="https://lokasasmita.com">visit my website</a>
+See my work → <a href="https://lokasasmita.com">lokasasmita.com</a>
 
 ## Tech stack (if you're curious)
 
