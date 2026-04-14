@@ -10,7 +10,7 @@ See my work → <a href="https://lokasasmita.com">lokasasmita.com</a>
 
 <ul>
   <li> Frontend Web Development with Next.js/React, GSAP, Typescript, Tailwind</li>
-  <li> Vercel / Cloudflare for hosting, Railway/Supabase for databases</li>
-  <li> UI/UX, prototyping, and wireframing in Figma </li>
+  <li> Vercel for hosting</li>
+  <li> Figma for prototyping and wireframing </li>
 </li>
 </ul>
